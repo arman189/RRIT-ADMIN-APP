@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RRIT Admin</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="todo3">TODO</string>
+    <string name="upload_ebook">Upload Ebook</string>
+    <string name="todo4">TODO</string>
+    <string name="faculty">Update Faculty</string>
+    <string name="todo5">TODO</string>
+    <string name="update_faculty">Delete Notice</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378304797707",
+    "project_id": "rrit-75c36",
+    "storage_bucket": "rrit-75c36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378304797707:android:bc1828bc82436f38e87b0e",
+        "android_client_info": {
+          "package_name": "com.arman.rritadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378304797707-1e9pdg4ihj9b3i37u1r3gjsknhnp69lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdP-lPCr25_aK0Mdzv-BBEVx6wr-Ic6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378304797707-1e9pdg4ihj9b3i37u1r3gjsknhnp69lj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
